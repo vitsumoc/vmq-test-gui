@@ -1,10 +1,10 @@
-module github.com/vitsumoc/vmq-tool
+module github.com/vitsumoc/vmq-tool/vmqtool
 
 go 1.21.7
 
 require (
 	fyne.io/fyne/v2 v2.4.4
-	github.com/vitsumoc/vmq v0.0.0-20240205063446-2d66e83471d6
+	github.com/vitsumoc/vmq v0.0.0-20240215045531-e0d6e498d0ba
 )
 
 require (
